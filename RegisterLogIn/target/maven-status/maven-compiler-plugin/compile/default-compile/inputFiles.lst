@@ -1,0 +1,14 @@
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\config\SecurityConfiguration.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Exception\InvalidCredentialsException.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Exception\UserAlreadyExistsException.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Model\Role.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Model\User.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\RegisterLogInApplication.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Repository\UserRepository.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Service\UserAccountService.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Service\UserService.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Service\UserServiceImpl.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Web\DTO\UserRegistrationDTO.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Web\MainController.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Web\UserAccountController.java
+C:\Users\T14 GEN 3\Downloads\RegisterLogIn\RegisterLogIn\src\main\java\com\example\RegisterLogIn\Web\UserRegistrationController.java

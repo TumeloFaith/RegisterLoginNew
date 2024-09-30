@@ -1,0 +1,14 @@
+com\example\RegisterLogIn\config\SecurityConfiguration.class
+com\example\RegisterLogIn\Exception\UserAlreadyExistsException.class
+com\example\RegisterLogIn\Service\UserServiceImpl.class
+com\example\RegisterLogIn\RegisterLogInApplication.class
+com\example\RegisterLogIn\Model\Role.class
+com\example\RegisterLogIn\Web\UserRegistrationController.class
+com\example\RegisterLogIn\Service\UserAccountService.class
+com\example\RegisterLogIn\Model\User.class
+com\example\RegisterLogIn\Web\UserAccountController.class
+com\example\RegisterLogIn\Web\MainController.class
+com\example\RegisterLogIn\Repository\UserRepository.class
+com\example\RegisterLogIn\Exception\InvalidCredentialsException.class
+com\example\RegisterLogIn\Service\UserService.class
+com\example\RegisterLogIn\Web\DTO\UserRegistrationDTO.class
